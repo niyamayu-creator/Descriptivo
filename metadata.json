@@ -1,0 +1,6 @@
+{
+  "name": "DataScope - Plataforma de Análisis Descriptivo",
+  "description": "Herramienta profesional para análisis exploratorio y descriptivo de datos, detección de sectores, tipos de variables, estadísticas, datos faltantes, histogramas, tendencias, boxplots y análisis experto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
